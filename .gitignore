@@ -1,0 +1,6 @@
+TensorRT-LLM/
+deepseek-ai/
+# Ignore all model directories
+**/model/
+# Ignore TensorRT-LLM files
+2_prepare_model/conversion/
